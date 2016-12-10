@@ -11,6 +11,6 @@ server.listen(8080);
 
 fuction hello(){
 	var tbone = 0;
-	var hambone = 1;
-	
+	var hambone = 0;
+
 }
